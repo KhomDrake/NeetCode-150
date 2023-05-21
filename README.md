@@ -1,6 +1,6 @@
 # NeetCode-150
 
-Hi, my name is Vinicius and in this repository i'm doing the 150 neetcode: https://neetcode.io/roadmap
+Hi, my name is Vinicius and in this repository i'm doing the Neetcode 150: https://neetcode.io/roadmap
 I will put in this documentation all the information about every single code.
 
 # Code Challenges
